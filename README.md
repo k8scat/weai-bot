@@ -8,7 +8,7 @@
 
 ## 使用
 
-[下载地址](https://github.com/k8scat/weai-bot/releases)
+[下载地址](https://github.com/k8scat/weai-bot/releases/latest)
 
 ## 联系
 
